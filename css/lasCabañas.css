@@ -1,0 +1,99 @@
+
+/* imagen-portada */
+.imagen-portada{
+    width: 90%;
+    margin-left: 6%;
+   
+}
+
+/* descripcion-1 */
+.descripcion-1{
+margin-left: 1.2%;
+margin-top: 2%;
+width: 100%
+}
+
+
+
+/* descripcion1-dep1 */
+.descripcion1-dep1{
+   margin-left: 20%;
+   margin-top: 1%;
+}
+
+
+/* descripcion1-dep2 */
+.descripcion1-dep2{
+   margin-left: 1%;
+}
+
+
+/* Equipamiento */
+.Equipamiento{
+   margin-left: 1%;
+   text-decoration: underline;
+}
+
+/* descripcion2-dep1" */
+.descripcion2-dep1{
+   margin-left: 1%;
+}
+
+/* descripcion2-dep2 */
+.descripcion2-dep2{
+   margin-left: 33%;
+   margin-top: 2%;
+   color: red; 
+    border: solid brown;
+   font-weight: bold ;
+   width: 34%;
+   padding-left: 0.8%;
+}
+
+/* descripcion2-dep3 */
+.descripcion2-dep3{
+   margin-left: 30%;
+  margin-top: 2%;
+   color: green;
+   font-weight:bold ;
+} 
+
+/* tarjeta1 */
+.tarjeta1{
+   padding: 20%;
+
+}
+
+/* Diseñado-Por */
+
+.diseñado-Por{
+   margin-left: 1%;
+   margin-top: 2%;
+   width: 10%;
+}
+
+
+ /* .autor-Del-Sitio */
+.autor-Del-Sitio{
+   background: rgb(0, 119, 255);
+   margin-left: 7%;
+   margin-top: -2%;
+   width: 100%;
+   }
+
+   /* creacion */
+.creacion{
+   background: rgb(81, 255, 0);
+   margin-left: 85%;
+   margin-top: -4.5%;
+   width: 10%;
+}    
+
+/* año-Del-Sitio */
+.año-Del-Sitio{
+   background: rgb(81, 255, 0);
+   margin-left: 17%;
+   margin-top: -0.1%;
+   width: 100%;
+
+}

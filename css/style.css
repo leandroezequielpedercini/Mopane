@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0;   
+    }
+
+.title{
+    font-weight: bold;
+}
+
+
+    /* Fondo de la pagina web */
+body{
+    background-color: rgb(255, 255, 244);
+}
+
+
+/* Logo de las cabañas */
+.puerto-mopane-cabañas{
+
+height: 75px;
+    margin: 0.5%;
+    margin-right: 50%;
+    animation-name: puerto-mopane-cabañas;
+    animation-duration: 2s;
+}
+
+
+/*  puerto-mopane-cabañas - animacion 1 */
+@keyframes puerto-mopane-cabañas {
+    100%{
+        transform: translateX(30%);
+    }
+   
+   
+}
+
+
+.puerto-mopane-cabañas{
+    margin-left: 1%;
+}
+
+/*  Icono de facebook*/
+
+.facebook{
+    height: 45px;
+    margin-bottom: 5.3px;
+    margin-left: -8%;
+    
+}
+
+/* Icono de instagram*/
+.instagram{
+    height: 46px;
+    margin-bottom: 4px;
+    margin-left: 10px
+}
+
+/* Icono de whatsaap */
+.whatsapp{
+    height: 50px;
+    margin-bottom: 4px;
+    margin-left: 10px
+}
+
+/* Icono movil */
+.movil{
+    height: 45px;
+    margin-bottom: 4px;
+    margin-left: 10px
+}
+
+/* Icono e-mail*/
+.e-mail{
+    height: 45px;
+    margin-bottom: 5px;
+    margin-left: 10px
+}
+
+/* links */
+.links{
+   font-size: 210%;
+   margin-left: 13%;
+    text-decoration-line: none;
+
+
+}
+
+
+
+
+/* nuestroLugar-HTML */
+.nuestroLugar-HTML{
+    margin: 3%;
+    color:  rgb(0, 162, 255);
+    text-decoration-line: none;
+}
+
+:hover.nuestroLugar-HTML{
+    color: green
+}
+
+/* lasCabañas.HTML */ 
+.lasCabañas-HTML{
+    margin: 3%;
+    color:  rgb(0, 162, 255);
+    text-decoration-line: none;
+}
+    
+:hover.lasCabañas-HTML{
+    color: green
+}
+
+
+/* ubicacion.HTML */
+.ubicacion-HTML{
+    margin: 3%;
+    color:  rgb(0, 162, 255);
+    text-decoration-line: none;
+}
+
+
+:hover.ubicacion-HTML{
+    color: green
+}
+
+/* contacto-HTML */
+.contacto-HTML{
+    margin: 3%;
+    color:  rgb(0, 162, 255);
+    text-decoration-line: none;
+}
+
+
+:hover.contacto-HTML{
+    color: green
+}
+
+
+
+
+
+/* carrusel-animacion - Animaion */
+#carrusel-animacion{
+  
+   animation-duration: 1s;
+}
+
+
+@keyframes carrusel-animacion {
+    
+}
+
+
+
+/* pino */
+.pino{
+    margin-left: 48.4%;    
+}
+
+/* parrafo-con-imagen */
+
+.Parrafo-con-imagen{
+    margin-top: 2%;
+    margin-left: 38%;
+    font-size: 40px;
+    color: brown 
+}
+
+/* parrafo solo */
+.Parrafo-solo{
+    font-size: 25px;
+    margin-left: 10px;    
+}
+
+/* h2-parrafo-puerto-mopane */
+.h2-parrafo-puerto-mopane{
+    text-decoration-line: underline;
+}
+
+
+/* p1-parrafo */
+.p1-parrafo{
+    margin-top: 1%;
+}
+
+/* p2-parrafo */
+.p2-parrafo{
+    margin-top: 1%;
+}
+
+/* p3-parrafo */
+.p3-parrafo{
+    margin-top: 1%;
+}
+
+/* p4-parrafo */
+.p4-parrafo{
+    margin-top: 1%;
+}
+
+/* p5-parrafo */
+.p5-parrafo{
+    margin-top: 1%;
+}
+
+/* h4-parrafo */
+.h4-parrafo{
+   color: rgb(0, 119, 255);
+    margin-top: 2%;
+    text-decoration-line: underline;
+}
+
+
+/* pie-de-pagina-img */
+.imagen-atardecer{
+    width: 100%;
+}
+
+
+/* diseñado-Por */
+.diseñado-Por{
+    width: 15%;
+    margin: 2%;
+    font-weight: bold;       
+}
+
+
+/* autor-Del-Sitio */
+.autor-Del-Sitio{
+    width: 15%;
+    margin-left: 8%;
+    margin-top: -3.3%;
+    width: 20%;
+    color:  blue;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/* creación del sitio web */
+.creacion{
+    width: 15%;
+    margin-left: 84%;
+    margin-top: -2.1%;
+    font-weight: bold;
+}
+
+/* año-Del-Sitio */
+.año-Del-Sitio{
+    width: 15%;
+    margin-left: 93.5%;
+    margin-top: -2.1%;
+    color: blue;
+    font-weight: bold;
+    text-decoration: underline;
+}
