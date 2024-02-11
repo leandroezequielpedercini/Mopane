@@ -5,8 +5,8 @@ cabezal.innerHTML = '<img src="/img/cabaña1/1-heder/Puerto Mopane.png" alt="Pue
 
 // Links //
 const links = document.getElementById("links")
-links.innerHTML = `<a href="" class="nuestroLugar-HTML">Nuestro lugar</a>`
-/* <a href="las-cabañas.html" class="lasCabañas-HTML">Las cabañas</a> <a href="ubicacion.html" class="ubicacion-HTML">Ubicacion</a><a href="contacto.html" class="contacto-HTML">Contacto</a>' */
+links.innerHTML = `<a href="" class="nuestroLugar-HTML">Nuestro lugar</a> <a href="las-cabañas.html" class="lasCabañas-HTML">Las cabañas</a> <a href="ubicacion.html" class="ubicacion-HTML">Ubicacion</a><a href="contacto.html" class="contacto-HTML">Contacto</a>`
+/* ' */
 
 // carrusel //
 const carrusel = document.getElementById("carrusel")
@@ -45,6 +45,9 @@ parrafo.innerHTML = '<h2 class="h2-parrafo-puerto-mopane">Puerto Mopane :</h2>  
 const imagenatardecer = document.getElementById("imagen-atardecer")
 imagenatardecer.innerHTML = `<img src="/img/cabaña1/4-portada-baja/Atardecer.JPEG  " class="imagen-atardecer alt="Atardecer">`
 
-
+/* Pie de pagina */
 const pieDePagina = document.getElementById("pie-de-pagina")
 pieDePagina.innerHTML = `<p class="diseñado-Por">Diseñado por :</p> <p class="autor-Del-Sitio"> Leandro Ezequiel Pedercíni:</p> <p class="creacion" >Creaciòn del sitio web :</p> <p class="año-Del-Sitio"> 2023 :</p>`
+
+const flecha = document.getElementById("desplgable")
+flecha.innerHTML = `<img src="/img/cabaña1/6-desplazamiento/image/892505.png" alt="Fecha desplegable">`
