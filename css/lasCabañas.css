@@ -13,7 +13,7 @@ body{
 
 
 /* Logo de las cabañas */
-.puerto-mopane-cabañas{
+.puerto-mopane-cabañas-Lascabanias{
 
 height: 75px;
     margin: 0.5%;
@@ -24,10 +24,112 @@ height: 75px;
 
 
 /*  puerto-mopane-cabañas - animacion 1 */
-@keyframes puerto-mopane-cabañas {
+@keyframes puerto-mopane-cabañas-Lascabañas{
     100%{
         transform: translateX(30%);
     }
    
    
 }
+
+
+.puerto-mopane-cabañas-Lascabanias{
+    margin-left: 1%;
+}
+
+/*  Icono de facebook*/
+
+.facebook-Lascabanias{
+    height: 45px;
+    margin-bottom: 5.3px;
+    margin-left: -8%;
+    
+}
+
+/* Icono de instagram*/
+.instagram-Lascabanias{
+    height: 46px;
+    margin-bottom: 4px;
+    margin-left: 10px
+}
+
+/* Icono de whatsaap */
+.whatsapp-Lascabanias{
+    height: 50px;
+    margin-bottom: 4px;
+    margin-left: 10px
+}
+
+/* Icono movil */
+.movil-Lascabanias{
+    height: 45px;
+    margin-bottom: 4px;
+    margin-left: 10px
+}
+
+/* Icono e-mail*/
+.e-mail-Lascabanias{
+    height: 45px;
+    margin-bottom: 5px;
+    margin-left: 10px
+}
+
+/* links */
+.links-Lascabanias{
+   font-size: 210%;
+   margin-left: 13%;
+    text-decoration-line: none;
+
+
+}
+
+
+
+
+/* nuestroLugar-HTML */
+.nuestroLugar-Lascabanias{
+    margin: 3%;
+    color:  rgb(0, 162, 255);
+    text-decoration-line: none;
+}
+
+:hover.nuestroLugar-HTML-Lascabanias{
+    color: green
+}
+
+/* lasCabañas.HTML */ 
+.lasCabañas-HTML-Lascabanias{
+    margin: 3%;
+    color:  rgb(0, 162, 255);
+    text-decoration-line: none;
+}
+    
+:hover.lasCabañas-HTML-Lascabanias{
+    color: green
+}
+
+
+/* ubicacion.HTML */
+.ubicacion-HTML-Lascabanias{
+    margin: 3%;
+    color:  rgb(0, 162, 255);
+    text-decoration-line: none;
+}
+
+
+:hover.ubicacion-HTML-Lascabanias{
+    color: green
+}
+
+/* contacto-HTML */
+.contacto-HTML-Lascabanias{
+    margin: 3%;
+    color:  rgb(0, 162, 255);
+    text-decoration-line: none;
+}
+
+
+:hover.contacto-HTML-Lascabanias{
+    color: green
+}
+

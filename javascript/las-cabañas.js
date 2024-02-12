@@ -1,10 +1,10 @@
 // header //
 const cabezal = document.getElementById("cabezal-index-HTML")
-cabezal.innerHTML = '<img src="/img/cabaña1/1-heder/Puerto Mopane.png" alt="Puerto Mopane" class="puerto-mopane-cabañas" > <img src="/img/cabaña1/1-heder/facebook.png" alt="Facebook" class="facebook" > <img src="/img/cabaña1/1-heder/instagram.png" alt="Instagram" class="instagram" > <img src="/img/cabaña1/1-heder/whatsapp.png" alt="Whatsapp" class="whatsapp" > <img src="/img/cabaña1/1-heder/movil.png" class="movil" > <img src="/img/cabaña1/1-heder/mail.png" class="e-mail" > '  
+cabezal.innerHTML = '<img src="/img/cabaña1/1-heder/Puerto Mopane.png" alt="Puerto Mopane" class="puerto-mopane-cabanias-Lascabanias" > <img src="/img/cabaña1/1-heder/facebook.png" alt="Facebook" class="facebook-Lascabanias" > <img src="/img/cabaña1/1-heder/instagram.png" alt="Instagram" class="instagram-Lascabanias" > <img src="/img/cabaña1/1-heder/whatsapp.png" alt="Whatsapp" class="whatsapp-Lascabanias" > <img src="/img/cabaña1/1-heder/movil.png" class="movil-Lascabanias" > <img src="/img/cabaña1/1-heder/mail.png" class="e-mail-Lascabanias" > '  
 
 // Links //
-const links = document.getElementById("links")
-links.innerHTML = `<a href="" class="nuestroLugar-HTML">Nuestro lugar</a> <a href="las-cabañas.html" class="lasCabañas-HTML">Las cabañas</a> <a href="ubicacion.html" class="ubicacion-HTML">Ubicacion</a><a href="contacto.html" class="contacto-HTML">Contacto</a>`
+const links = document.getElementById("linksLascabanias")
+links.innerHTML = `<a href="/paginasHTML/index.html" class="nuestroLugar-HTML-Lascabanias">Nuestro lugar</a> <a href="las-cabañas.html" class="lasCabañas-HTML-Lascabanias">Las cabañas</a> <a href="ubicacion.html" class="ubicacion-HTML-Lascabanias">Ubicacion</a><a href="contacto.html" class="contacto-HTML-Lascabanias">Contacto</a>`
 
 /* Imagen */
 const imagen = document.getElementById("imagen")

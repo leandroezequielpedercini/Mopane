@@ -4,8 +4,8 @@ const cabezal = document.getElementById("cabezal-index-HTML")
 cabezal.innerHTML = '<img src="/img/cabaña1/1-heder/Puerto Mopane.png" alt="Puerto Mopane" class="puerto-mopane-cabañas" > <img src="/img/cabaña1/1-heder/facebook.png" alt="Facebook" class="facebook" > <img src="/img/cabaña1/1-heder/instagram.png" alt="Instagram" class="instagram" > <img src="/img/cabaña1/1-heder/whatsapp.png" alt="Whatsapp" class="whatsapp" > <img src="/img/cabaña1/1-heder/movil.png" class="movil" > <img src="/img/cabaña1/1-heder/mail.png" class="e-mail" > '  
 
 // Links //
-const links = document.getElementById("links")
-links.innerHTML = `<a href="" class="nuestroLugar-HTML">Nuestro lugar</a> <a href="las-cabañas.html" class="lasCabañas-HTML">Las cabañas</a> <a href="ubicacion.html" class="ubicacion-HTML">Ubicacion</a><a href="contacto.html" class="contacto-HTML">Contacto</a>`
+document.getElementById("links")
+links.innerHTML = `<a hre"/paginasHTML/index.html" class="nuestroLugar-HTML">Nuestro lugar</a> <a href="las-cabañas.html" class="lasCabañas-HTML">Las cabañas</a> <a href="ubicacion.html" class="ubicacion-HTML">Ubicacion</a><a href="contacto.html" class="contacto-HTML">Contacto</a>`
 /* ' */
 
 // carrusel //
